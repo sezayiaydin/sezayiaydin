@@ -1,4 +1,4 @@
-# Hello, World! 👋
+## Hello, World! 👋
 
 <img src="https://github.com/sezayiaydin/salesdevelopernew/blob/main/Repository/greetings.gif" align="center" style="width: 50; height: 150px; padding: 5px;" />
 
@@ -60,18 +60,14 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 <h2> GitHub Stats </h2> 
 
-## GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Sezayi's GitHub stats" />
-</p>
 
-<br />
+
+
 
 
 
