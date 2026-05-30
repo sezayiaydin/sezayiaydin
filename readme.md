@@ -62,19 +62,14 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight)
 
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight)
-
-<br />
-
-![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true)
-
-<br />
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sezayiaydin)
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Sezayi's GitHub stats" />
+</p>
 
 <br />
 
