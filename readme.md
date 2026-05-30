@@ -60,17 +60,23 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 
 <h2> GitHub Stats </h2> 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Sezayi's GitHub stats" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sezayiaydin" alt="GitHub Trophies" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight)
 
+<br />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight)
+
+<br />
+
+![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true)
+
+<br />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sezayiaydin)
+
+<br />
 
 
 
