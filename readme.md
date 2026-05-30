@@ -56,22 +56,24 @@ If you're interested in hiring me, check out my linkedin account [Linkedin](http
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code)
 
-<h2> Github Stats </h2> 
-
-<a href="https://github.com/sezayiaydin/github-readme-stats"></a>
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="sezayiaydin" />
-</br>
 
 
-<div id="github_stats" align="center">
+<h2> GitHub Stats </h2> 
 
-[![Sezayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
-<br>
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sezayiaydin)](https://github.com/sezayiaydin/github-profile-trophy)
-</br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezayiaydin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sezayiaydin&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sezayiaydin&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Sezayi's GitHub stats" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=sezayiaydin" alt="GitHub Trophies" />
 </div>
+
+
+
+
 
 🔗 &nbsp;**Connect With Me**
 <p><a href="https://github.com/sezayiaydin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
